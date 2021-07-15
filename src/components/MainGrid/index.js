@@ -8,6 +8,7 @@ const MainGrid = styled.main`
   max-width: 500px;
   padding: 16px;
   .profileArea {
+    width: 100%;
     display: none;
     @media(min-width: 860px) { 
       display: block;
